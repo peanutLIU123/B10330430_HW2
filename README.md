@@ -8,3 +8,4 @@ finish encryption and decryption with R.G.B arrays  continuously
 >>>>>>> 57c2ad5ba0d0dfb864d1627d1e5665ba1eecb49b
 "# B10330430_HW3" 
 "# B10330430_HW3" 
+"# B10330430_HW3" 
